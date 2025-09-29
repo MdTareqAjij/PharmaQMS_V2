@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1014917927583",
+    "firebase_url": "https://pharmaqms-v2-default-rtdb.firebaseio.com",
+    "project_id": "pharmaqms-v2",
+    "storage_bucket": "pharmaqms-v2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014917927583:android:79906b34e6c742aa2288aa",
+        "android_client_info": {
+          "package_name": "com.pharmaqms.apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA53L4EUt12j02qpoRzeI7LY0Cw82rUoCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

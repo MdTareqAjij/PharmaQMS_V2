@@ -1,0 +1,12 @@
+{
+  "rules": {
+    "posts": {
+      ".read": true,
+      ".write": "auth != null && auth.token.email == 'admin@pharmaqms.com'"
+    },
+    "users": {
+      ".read": "auth != null",
+      ".write": "auth != null && auth.uid === $uid"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+name: pharma_qms_admin
+description: Pharma QMS - Admin app (with Firebase scaffolding)
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  provider: ^6.0.0
+  flutter_html: ^3.0.0
+  firebase_core: ^2.10.0
+  firebase_auth: ^4.6.0
+  cloud_firestore: ^4.8.0
+  firebase_storage: ^11.1.0
+  image_picker: ^0.8.7+5
+
+flutter:
+  uses-material-design: true
